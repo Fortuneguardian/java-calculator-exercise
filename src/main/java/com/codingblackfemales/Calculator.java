@@ -13,7 +13,9 @@ public class Calculator {
         return firstInput * secondInput;
     }
 
-    public static Integer divide(final int firstInput, final int secondInput) {
+    public static Float divide(final float firstInput, final float secondInput) {
         return firstInput / secondInput;
     }
+
+     
 }
